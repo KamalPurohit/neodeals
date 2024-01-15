@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "flipcart",
-    "slug": "flipcart",
+    "slug": "neodeals",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "17d0f101-8828-42bd-8d13-84768990ee1b"
+      }
+    },
+    "owner": "kamalpurohit"
   }
 }
